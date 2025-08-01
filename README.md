@@ -1,4 +1,4 @@
-# NewProject
+# angulargithubtestmcp
 
 A modern full-stack application built with Angular and .NET, featuring comprehensive tooling and deployment options.
 
@@ -30,7 +30,7 @@ A modern full-stack application built with Angular and .NET, featuring comprehen
 ## 📁 Project Structure
 
 ```
-NewProject/
+angulargithubtestmcp/
 ├── frontend/          # Angular application
 ├── backend/           # .NET API
 ├── shared/            # Shared types and utilities
@@ -50,7 +50,7 @@ NewProject/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rzn-ncls/NewProject.git
+   git clone https://github.com/rzn-ncls/angulargithubtestmcp.git
    cd NewProject
    ```
 
